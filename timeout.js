@@ -1,6 +1,5 @@
 /**
  * Represents an extended Timeout object.
- * @type {module.LongTimeout}
  */
 module.exports = class LongTimeout {
 	/**

@@ -13,6 +13,7 @@
   ],
   "main": "timeout.js",
   "name": "long-timeout",
+  "types": "timeout.d.ts",
   "private": true,
   "version": "1.0.0"
 }
